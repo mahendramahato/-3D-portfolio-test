@@ -1,0 +1,11 @@
+Model Information:
+* title:	space satellite
+* source:	https://sketchfab.com/3d-models/space-satellite-981030bf5528448bb11b3c47660bacf5
+* author:	ryu9 (https://sketchfab.com/ryu9)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "space satellite" (https://sketchfab.com/3d-models/space-satellite-981030bf5528448bb11b3c47660bacf5) by ryu9 (https://sketchfab.com/ryu9) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
